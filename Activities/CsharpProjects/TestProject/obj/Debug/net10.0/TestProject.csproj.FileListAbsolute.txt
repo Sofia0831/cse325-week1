@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.exe
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.deps.json
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.runtimeconfig.json
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.dll
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.pdb
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.dll
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\refint\TestProject.dll
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.pdb
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\CsharpProjects\TestProject\obj\Debug\net10.0\ref\TestProject.dll

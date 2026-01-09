@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\ACER\Documents\2. BYU\2026\CSE\WEEK1\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
